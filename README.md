@@ -1,4 +1,4 @@
-# SpeechToTextGemini
+# PreventMultipleTabs
 
 JavaScript that attempts to **enforce a single active session by blocking multiple open tabs.**
 
