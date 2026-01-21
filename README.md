@@ -12,6 +12,6 @@ JavaScript that attempts to **enforce a single active session by blocking multip
 
 ## Use Cases
 
-- Websites that intent to prevent users from flooding/gaming the system i.e ticketing platforms.
+- Websites/Apps that intend to prevent users from flooding/gaming the system i.e ticketing platforms.
 
 ---![PreventMultipleWindows](https://github.com/user-attachments/assets/0cfade5b-4340-45dc-90ec-f3fa33ab5db5)
